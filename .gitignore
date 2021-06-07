@@ -1,0 +1,8 @@
+.classpath
+.settings
+.factorypath
+bin/
+target/
+test-output/
+output/
+.project
